@@ -1,0 +1,7 @@
+Required Libraries:
+- tkinter
+- tensorflow
+- cv2
+- threading
+- numpy
+- time
